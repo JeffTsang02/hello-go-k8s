@@ -15,6 +15,7 @@
 ├── .dockerignore        # 忽略无关文件
 ├── hello-go.yaml        # Kubernetes Deployment 和 Service 配置
 ├── main.go              # Web 服务器代码，访问 / 返回 "Hello world!"
+├── go.mod               # go相关配置文件
 ```
 
 ## 🚀 启动步骤
